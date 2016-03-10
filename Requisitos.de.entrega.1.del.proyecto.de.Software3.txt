@@ -4,10 +4,10 @@ Se explica clara y detalladamente por parte del grupo el proceso de montaje del 
 Se evidencia un servicio de CI instalado y conectado a un repositorio SCM?
 Se evidencian procedimientos de CI ejecutados por el grupo de trabajo?
 Se evidencia pruebas unitarias?
-Se evidencia generación del build?
+Se evidencia generaciÃ³n del build?
 Se evidencia que los miembros del equipo tienen cuenta de acceso al servidor de CI?
 
-Jenkins - Necesitamos instalarlo y saber usar por una cuenta de cada integrante del proyecto ( esta soportado para trabajar con versiones de Git-hub)
+Jenkins - ( esta soportado para trabajar con versiones de Git-hub) falta
 -----//-----------------------------------------------------------------------------------//------------------
 
 Rubrica 2 -> SCM (Versionamiento)
@@ -15,14 +15,14 @@ Rubrica 2 -> SCM (Versionamiento)
 Se expone una estrategia de solicitudes de cambio para el proyecto?
 La estrategia de solicitudes de cambio emplea una herramienta para gestionar solicitudes de cambio?
 Se evidencia un repositorio para manejo de versiones?
-Cada miembro del equipo tiene una cuenta única y propia para acceder al repositorio?
+Cada miembro del equipo tiene una cuenta Ãºnica y propia para acceder al repositorio?
 Se evidencian cambios realizados por cada miembro del equipo?
-Cada cambio posee un log adecuado que describa la justificación del cambio implementado?
+Cada cambio posee un log adecuado que describa la justificaciÃ³n del cambio implementado?
 El repositorio se encuentra en un proyecto externo, es decir, no reside en los pc's de los miembros del equipo?
-El repositorio está conectado con el entorno de desarrollo a emplear por los miembros del equipo?
-Se evidencia código administrado desde el repositorio? (en caso de proyectos en producción, se evidencia código generado por los estudiantes?)
+El repositorio estÃ¡ conectado con el entorno de desarrollo a emplear por los miembros del equipo?
+Se evidencia cÃ³digo administrado desde el repositorio? (en caso de proyectos en producciÃ³n, se evidencia cÃ³digo generado por los estudiantes?)
 
-Lenguaje de programacion Java
+Lenguaje de programacion php
 Github
 Drive
 -----//-----------------------------------------------------------------------------------//------------------
@@ -30,8 +30,8 @@ Drive
 Rubrica 3 -> VISION (actualmente compartida y en elaboracion)
 
 - Levantamiento de requisitos: REM
-  REM es una herramienta gratuita que nos permitirá reflejar la captura de requisitos en un documento de manera ordenada, sin perder flexibilidad a la hora de
-  definir el formato estándar de dicho documento.
+  REM es una herramienta gratuita que nos permitirÃ¡ reflejar la captura de requisitos en un documento de manera ordenada, sin perder flexibilidad a la hora de
+  definir el formato estÃ¡ndar de dicho documento.
 
 - Plantilla vision
 -----//-----------------------------------------------------------------------------------//------------------
@@ -39,9 +39,9 @@ Rubrica 3 -> VISION (actualmente compartida y en elaboracion)
 Rubrica 4 -> SQA Plan (Metodologia de calidad aplicada al proyecto)
 
 El equipo de trabajo tiene plenamente identificado y relacionan los objetivos de calidad del proyecto?
-El equipo de trabajo relaciona estándares y buenas prácticas para aplicar durante la ejecución del proyecto?
-El equipo proyecta tareas de revisión y auditoria?
-Se identifica al menos una metodología para aseguramiento de calidad en el proyecto?
+El equipo de trabajo relaciona estÃ¡ndares y buenas prÃ¡cticas para aplicar durante la ejecuciÃ³n del proyecto?
+El equipo proyecta tareas de revisiÃ³n y auditoria?
+Se identifica al menos una metodologÃ­a para aseguramiento de calidad en el proyecto?
 Se identifica un repositorio de registros de calidad?
 
 se puede medir con los puntos por historias de usuarios obtenidas en los sprint, en la implementacion del scrum por medio de:
@@ -55,11 +55,11 @@ Rubrica 5
 Rsk -> Riesgos del proyecto
 
 Se evidencia clara, concreta y precisamente los riesgos asociados al proyecto?
-Se evidencia un análisis de cada riesgo, identificado la probabilidad de materialización y el impacto en el proyecto?
+Se evidencia un anÃ¡lisis de cada riesgo, identificado la probabilidad de materializaciÃ³n y el impacto en el proyecto?
 Se identifica el tipo de riesgo?
 Se identifica la fuente del riesgo?
-Se evidencia una estrategia de evitación (avoidance)?
-Se evidencia una estrategia de mitigación?
+Se evidencia una estrategia de evitaciÃ³n (avoidance)?
+Se evidencia una estrategia de mitigaciÃ³n?
 Se evidencia una evidencia de contingencia?
 
 Pendiente investigar acerca de PMBOK u otra metodologia de riesgos del proyecto
@@ -70,10 +70,10 @@ Rubrica 6 - Sustentacion
 
 El estudiante expone precisa y concretamente?
 El estudiante presenta precisamente las evidencias solicitadas por el profesor?
-El estudiante tiene todo el ambiente técnico del proyecto preparado?
-El estudiante emplea un lenguaje apropiado durante la sustentación?
-El estudiante conserva normas mínimas de presentación personal durante su sustentación?
-El estudiante conserva respeto hacia el profesor y sus compañeros durante la presentación del proyecto?
+El estudiante tiene todo el ambiente tÃ©cnico del proyecto preparado?
+El estudiante emplea un lenguaje apropiado durante la sustentaciÃ³n?
+El estudiante conserva normas mÃ­nimas de presentaciÃ³n personal durante su sustentaciÃ³n?
+El estudiante conserva respeto hacia el profesor y sus compaÃ±eros durante la presentaciÃ³n del proyecto?
 
 
 
