@@ -6,5 +6,7 @@ public class UserDAO {
 	private int canela;
 	private Double  numero3;
 	private String  validacion;
+	
+	private String autoDeploy;
 
 }
