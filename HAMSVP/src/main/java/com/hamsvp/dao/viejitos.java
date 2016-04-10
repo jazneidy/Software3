@@ -12,5 +12,6 @@ package com.hamsvp.dao;
 public class viejitos {
     
     private String viejitos;
+    private String mauricio;
     
 }
