@@ -4,18 +4,11 @@ import java.io.Serializable;
 import javax.persistence.*;
 
 
-/**
- * The persistent class for the `caja menor` database table.
- * 
- */
-@Entity
-@Table(name="`caja menor`")
-@NamedQuery(name="Caja_menor.findAll", query="SELECT c FROM Caja_menor c")
-public class Caja_Menor implements Serializable {
-	private static final long serialVersionUID = 1L;
 
-	@Id
-	@Column(name="`idcaja menor`")
+public class Caja_Menor implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+	
 	private int idcaja_menor;
 
 	private String concepto;

@@ -10,8 +10,8 @@ import javax.persistence.*;
  */
 @Entity
 @Table(name="`activos fijos`")
-@NamedQuery(name="Activos_fijo.findAll", query="SELECT a FROM Activos_fijo a")
-public class Activos_fijo implements Serializable {
+@NamedQuery(name="Activosfijo.findAll", query="SELECT a FROM Activosfijo a ")
+public class Activosfijo implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
@@ -24,7 +24,7 @@ public class Activos_fijo implements Serializable {
 
 	private String maquinaria;
 
-	public Activos_fijo() {
+	public Activosfijo() {
 	}
 
 	public int getIdactivos_fijos() {
